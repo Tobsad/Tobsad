@@ -8,7 +8,7 @@
 Tobsad/Tobsad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!--tratemos de comentar esto de abajo xd-->
+<!--tratemos de comentar esto de abajo
  # Bienvenidos a mi perfil de GitHub
 
 Soy un estudiante de Ingeniería de Sistemas con un enfoque en el desarrollo frontend. Me encanta resolver problemas y crear soluciones prácticas con el uso de tecnologías modernas.
@@ -33,3 +33,4 @@ Soy un estudiante de Ingeniería de Sistemas con un enfoque en el desarrollo fro
 
 Me encanta aprender y mejorar mis habilidades. Estoy emocionado de trabajar en proyectos interesantes y colaborar con otros desarrolladores para crear soluciones impresionantes. ¡Gracias por visitar mi perfil!
 
+ xd AQUI TERMINA-->
