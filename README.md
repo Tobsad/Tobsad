@@ -4,6 +4,31 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+# ¡Bienvenido/a a mi perfil de Github!
+
+## Sobre mí
+
+Soy [tu nombre], estudiante de Ingeniería de Sistemas en [tu universidad]. Me apasiona el mundo de la tecnología y la programación, y estoy constantemente buscando oportunidades para mejorar mis habilidades y conocimientos en este campo.
+
+## Mis intereses
+
+- Programación en lenguajes como Java, Python y C++
+- Desarrollo web con HTML, CSS y JavaScript
+- Bases de datos y gestión de la información
+- Seguridad informática y ciberseguridad
+
+## Mis proyectos
+
+- [Nombre del proyecto](enlace al repositorio): Una descripción breve del proyecto y su objetivo.
+- [Nombre del proyecto](enlace al repositorio): Una descripción breve del proyecto y su objetivo.
+
+## Contacto
+
+¡Siempre estoy buscando nuevas oportunidades de aprendizaje y colaboración! Si estás interesado/a en contactarme, puedes encontrarme en:
+
+- [Linkedin](enlace a tu perfil de Linkedin)
+- [Correo electrónico](tu dirección de correo electrónico)
+
 <!---
 Tobsad/Tobsad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
